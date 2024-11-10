@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nikinamian
-- 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning C++ and I already know Python.
-- 📫 How to reach me nikinamian06@gmail.com
+- 👋 Hi everyone, I’m @nikinamian!
+- 👀 I’m fascinated by Computer Science.
+- 🌱 I’m proficient in Python, HTML, CSS, JavaScript, and C++.
+- 📫 How to reach me: nikinamian06@gmail.com.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love baking and playing pickleball!
+- ⚡ Fun fact: I love baking and playing pickleball (when I'm not coding of course)!
 
 <!---
 nikinamian/nikinamian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
