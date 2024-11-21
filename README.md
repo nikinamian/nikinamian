@@ -1,5 +1,5 @@
 - 👋 Hi everyone, I’m @nikinamian!
-- 👀 I’m fascinated by Computer Science.
+- 👀 I’m fascinated by Computer Science, specifically artificial intelligence.
 - 🌱 I’m proficient in Python, HTML, CSS, JavaScript, and C++.
 - 📫 How to reach me: nikinamian06@gmail.com.
 - 😄 Pronouns: she/her
